@@ -246,7 +246,7 @@ const App = () => {
                   key={index}
                   className="flex items-center gap-2 text-[10px] font-bold border-l-2 border-[#f97316] pl-2 py-0.5"
                 >
-                  <span>{["🇩🇪", "🇸🇦", "🇪🇸", "🇬🇧", "🇷🇺", "🇬🇷", "🇺🇦", "🇵🇰"][index]}</span>
+                  <span>{["🇩🇪", "🇸🇦", "🇪🇸", "🇬🇧", "🇷🇺", "🇬🇷", "🇺🇦"][index]}</span>
                   <span className="text-gray-300 tracking-wider">{label}</span>
                 </div>
               ))}
@@ -256,7 +256,13 @@ const App = () => {
             <div className="text-lg font-black italic tracking-[0.15em] text-white bg-white/5 py-1 uppercase">{t.ui.withOrWithoutAppointment}</div>
             <div className="flex flex-col gap-1 text-xs font-bold text-gray-300">
               <span>{t.ui.tel}</span>
-              <span className="text-[#f97316] text-[10px]">{t.ui.website}</span>
+            </div>
+            <div className="mt-4 flex justify-center">
+              <img
+                src="/qr-code.png"
+                alt="QR Code"
+                className="w-24 h-24 rounded-lg bg-white p-1.5 shadow-md"
+              />
             </div>
           </div>
         </div>

@@ -157,10 +157,9 @@ export const translations = {
     ui: {
       service: "Service",
       weSpeak: "We Speak",
-      spokenLangs: ["German", "Arabic", "Spanish", "English", "Russian", "Greek", "Ukrainian", "Urdu"],
+      spokenLangs: ["German", "Arabic", "Spanish", "English", "Russian", "Greek", "Ukrainian"],
       withOrWithoutAppointment: "With or without appointment",
       tel: "TEL.: 089 - 32 66 81 82",
-      website: "WWW.HAIRSTYLING-PARADISO.DE",
     },
   },
   de: {
@@ -316,10 +315,9 @@ export const translations = {
     ui: {
       service: "Service",
       weSpeak: "Wir Sprechen",
-      spokenLangs: ["Deutsch", "Arabisch", "Spanisch", "Englisch", "Russisch", "Griechisch", "Ukrainisch", "Urdu"],
+      spokenLangs: ["Deutsch", "Arabisch", "Spanisch", "Englisch", "Russisch", "Griechisch", "Ukrainisch"],
       withOrWithoutAppointment: "Mit und ohne Termin",
       tel: "TEL.: 089 - 32 66 81 82",
-      website: "WWW.HAIRSTYLING-PARADISO.DE",
     },
   },
   ar: {
@@ -475,10 +473,9 @@ export const translations = {
     ui: {
       service: "الخدمة",
       weSpeak: "نتحدث",
-      spokenLangs: ["الألمانية", "العربية", "الإسبانية", "الإنجليزية", "الروسية", "اليونانية", "الأوكرانية", "الأردية"],
+      spokenLangs: ["الألمانية", "العربية", "الإسبانية", "الإنجليزية", "الروسية", "اليونانية", "الأوكرانية"],
       withOrWithoutAppointment: "مع أو بدون موعد",
       tel: "هاتف: 089 - 32 66 81 82",
-      website: "WWW.HAIRSTYLING-PARADISO.DE",
     },
   },
   es: {
@@ -634,10 +631,9 @@ export const translations = {
     ui: {
       service: "Servicio",
       weSpeak: "Hablamos",
-      spokenLangs: ["Alemán", "Árabe", "Español", "Inglés", "Ruso", "Griego", "Ucraniano", "Urdu"],
+      spokenLangs: ["Alemán", "Árabe", "Español", "Inglés", "Ruso", "Griego", "Ucraniano"],
       withOrWithoutAppointment: "Con o sin cita previa",
       tel: "TEL.: 089 - 32 66 81 82",
-      website: "WWW.HAIRSTYLING-PARADISO.DE",
     },
   },
   fr: {
@@ -793,10 +789,9 @@ export const translations = {
     ui: {
       service: "Service",
       weSpeak: "Nous parlons",
-      spokenLangs: ["Allemand", "Arabe", "Espagnol", "Anglais", "Russe", "Grec", "Ukrainien", "Ourdou"],
+      spokenLangs: ["Allemand", "Arabe", "Espagnol", "Anglais", "Russe", "Grec", "Ukrainien"],
       withOrWithoutAppointment: "Avec ou sans rendez-vous",
       tel: "TEL.: 089 - 32 66 81 82",
-      website: "WWW.HAIRSTYLING-PARADISO.DE",
     },
   },
 };
